@@ -1,1 +1,3 @@
 # Lazy
+
+sadece kodu indir.
