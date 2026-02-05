@@ -1,3 +1,3 @@
 # Lazy
 
-sadece kodu indir.
+sadece kodu indir ve çalıştır.
